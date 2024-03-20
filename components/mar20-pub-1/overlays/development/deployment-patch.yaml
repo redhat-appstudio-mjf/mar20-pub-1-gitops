@@ -12,5 +12,5 @@ spec:
   template: 
     spec:
       containers:
-      - image: quay.io/mfaisal2/mar20-pub-1:ded9fa0a67e1477a87059d50c957ebff551b5701@sha256:c3f1bddaf857381139c87590b0ee8a1b5bf8339b2e7d6d8eececba72cddcad49
+      - image: quay.io/mfaisal2/mar20-pub-1:4cc884f5634be446d3663accf1bb12ce80c73e2a@sha256:41399edf9aea0090bcc21eb444e29eb43d6000fd2071047e5b2723f826dbb849
         name: container-image  
